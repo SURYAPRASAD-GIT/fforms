@@ -1,0 +1,15 @@
+.main-content {
+  margin-top: 5rem;
+  margin-left: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.example-full-width {
+  width: 30%;
+}
+
+button {
+  outline: none;
+}

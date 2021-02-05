@@ -1,0 +1,14 @@
+.mui {
+  margin-top: 4rem;
+}
+
+button {
+  /*  Remove focus around button */
+  outline: none;
+  margin-right: 3rem;
+}
+
+.example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+}
